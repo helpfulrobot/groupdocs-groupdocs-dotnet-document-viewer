@@ -1,4 +1,4 @@
-# GroupDocs .NET Viewer
+# Groupdocs .NET Viewer
 ============================
 
 GroupDocs Viewer .NET plugin for SilverStripe
@@ -14,6 +14,7 @@ Powered by <a href="http://groupdocs.com/dotnet/document-viewer-library" target=
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
 * [View PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/html5-document-viewer)
+* [Download Viewer plugin package here](https://github.com/groupdocs/silverstripe-groupdocs-viewer-dotnet)
 * [Embed DOC, DOCX, PDF Viewer in your SilverStripe CMS website] (http://addons.silverstripe.org/)
 
 

@@ -1,0 +1,16 @@
+{
+	  "name": "groupdocs/groupdocs-dotnet-document-viewer",
+	  "description": "Integrates .NET version of the GroupDocs HTML5-based document viewer.",
+	  "type": "silverstripe-module",
+	  "homepage": "http://groupdocs.com/dot-net/document-viewer-library",
+	  "keywords": ["silverstripe", "groupdocs", "document viewer", "asp.net document viewer", "pdf", "word", "excel", "powepoint"],
+	  "license": "BSD-3-Clause",
+	  "authors": [
+	    {"name": "Marketplace Team","email": "support@groupdocs.com"}
+	  ],	  
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  }
+	}	
+		

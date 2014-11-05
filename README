@@ -1,0 +1,16 @@
+======================================
+ Groupdocs Java Viewer Module 1.0.0 For SilverStripe
+======================================
+Developed and maintained by GroupDocs Team
+  plugin_support@groupdocs.zendesk.com
+======================================
+
+Installation:
+- Extract groupdocs_java_viewer folder to your site root
+- Start rebuild process from http://yoursite/dev/build/
+
+How to use:
+- You can use shortcode like
+[groupdocsJavaViewer width=500 height=800]server_url where installed Java Viewer[/groupdocsJavaViewer]
+default width = 600
+default height = 800
